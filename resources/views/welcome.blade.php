@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Site nou </div>
+                <div class="title">Site nou de istorie </div>
             </div>
         </div>
     </body>
